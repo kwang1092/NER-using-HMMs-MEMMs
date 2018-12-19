@@ -125,3 +125,5 @@ from word embeddings because we believed that the other more important and disti
 features listed above would get washed out by the excessive number of features from the word
 embeddings.
 
+Results:
+Our HMM had the highest accuracy among all of our models including MEMM. We reason it's primarily because of the features we decided to use.
